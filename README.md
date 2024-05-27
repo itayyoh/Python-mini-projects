@@ -4,3 +4,4 @@ Python projects
 (great for mastering if elif else
 using functions
 and while loops)
+#2 rock paper scissors game
