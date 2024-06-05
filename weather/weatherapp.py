@@ -2,8 +2,9 @@ import requests
 import os
 
 # Fetch your api key through Operating System !
-api_key = os.getenv("SECRET_KEY_ITAY_WEATHERAPP")
-
+# with os.getenv we can fetch an api key we stored locally!
+api_key = os.getenv(#your api key!)
+ 
 if not api_key:
     print("Invalid API key!")
 else:
